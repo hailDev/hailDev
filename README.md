@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=1FF76C&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;+Let's+explore+my+experiences+!" />
 </h1>
 
-<h3 align="center">Machine Learning and Webdev Enthusiast</h3>
+<h3 align="center">Machine Learning and Web Development Enthusiast</h3>
 <!--
 **hailDev/hailDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
