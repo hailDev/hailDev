@@ -1,4 +1,3 @@
-### Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hailDev.hailDev" />
 
 <h1 align="center">
