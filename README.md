@@ -11,7 +11,7 @@
  
  🔭 I’m an undergraduate **IT Student**
  
- 🌱 I’m currently learning **Data Analysis and Data Science**
+ 🌱 I’m currently learning **Data Science and Machine Learning**
 
 
  </div>
