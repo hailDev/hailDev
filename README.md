@@ -25,7 +25,7 @@ fun_fact: "I’m not sure what fun is, but I’m working on it"
 - 💬 Ask me about: [
     open source contributions,
     freelance project,
-    or my bank acount for a friendly transfer 😁,
+    or my bank account for a friendly transfer 😁,
     ];
 ```
 ## 
