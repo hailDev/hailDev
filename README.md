@@ -1,57 +1,32 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hailDev.hailDev" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=1FF76C&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;+Let's+explore+my+experiences+!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=1FF76C&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;" />
 </h1>
 
-<h3 align="center">Machine Learning and Web Development Enthusiast</h3>
-<br/>
-
-<div align="center">
- 
- 🔭 I’m an undergraduate **IT Student**
- 
- 🌱 I’m currently learning **Data Science and Machine Learning**
-
-
- </div>
-
- <div align="center"> 
-  <a href="mailto:croziputra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <a href="https://github.com/hailDev">
+    <img src="https://media1.tenor.com/m/CochrRf4JlcAAAAd/nyancat-nyahallo.gif" alt="MasterHead">
   </a>
-  <a href="https://linkedin.com/in/fachrur-rozi21" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://haildev.github.io/myportofolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-<hr/>
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,laravel,tailwind,javascript,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,opencv,mysql" />
-</div>
-
-<br/>
-<hr/>
+</p>
 
 
-<!--
-**hailDev/hailDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hailDev.hailDev" />
 
-Here are some ideas to get you started:
+<!-- About Me Section -->
+## About Me
+```yaml
+name: hailDev
+role: Software Engineer
+location: "🌍 Earth"
+interests: ["Tech", "Open Source", "Gaming"]
+fun_fact: "I’m not sure what fun is, but I’m working on it"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at a private software house company.
+- 🌱 I’m currently learning Golang and its frameworks.
+- 💬 Ask me about: [
+    open source contributions,
+    freelance project,
+    or my bank acount for a friendly transfer 😁,
+    ];
+```
+## 
+
