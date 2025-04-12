@@ -21,7 +21,7 @@ interests: ["Tech", "Open Source", "Gaming"]
 fun_fact: "I’m not sure what fun is, but I’m working on it"
 
 - 🔭 I’m currently working at a private software house company.
-- 🌱 I’m currently learning Golang and its frameworks.
+- 🌱 I’m currently learning Go Language.
 - 💬 Ask me about: [
     open source contributions,
     freelance project,
