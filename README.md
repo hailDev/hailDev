@@ -31,4 +31,5 @@ fun_fact: "I’m not sure what fun is, but I’m working on it"
 ## 
 
 ## FYI: 
-Since August 2024, my activity on GitHub has been less frequent as I started working at a private software house company. My contributions are primarily made using GitLab in this role. You can find me there in gitlab https://gitlab.com/hailDev1.
+- Since August 2024, my activity on GitHub has been less frequent as I started working at a private software house company. My contributions are primarily made using GitLab in this role. You can find me there in gitlab https://gitlab.com/hailDev1.
+- Worth to check https://wakatime.com/@hailDev
